@@ -8,7 +8,7 @@
 
 ## download WSL kernel source from https://github.com/microsoft/WSL2-Linux-Kernel/tags
 
-tar xf tar xf linux-msft-wsl-*.tar.gz
+tar xf linux-msft-wsl-*.tar.gz
 cd WSL2-Linux-Kernel-linux-msft-wsl-*
 cp Microsoft/config-wsl .config
 
